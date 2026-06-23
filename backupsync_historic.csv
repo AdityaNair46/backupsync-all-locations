@@ -1,127 +1,127 @@
-date,location,completed
-2026-06-22,London,TRUE
-2026-06-22,Jacksonville,TRUE
-2026-06-22,Canandaigua,FALSE
-2026-06-22,Bossier City,FALSE
-2026-06-22,San Antonio,TRUE
-2026-06-22,Bedford,TRUE
-2026-06-22,Barrios Vision,FALSE
-2026-06-22,Franklin,FALSE
-2026-06-22,Burkburnett,FALSE
-2026-06-22,San Antonio,TRUE
-2026-06-22,Jefferson City,TRUE
-2026-06-22,Denham Springs,TRUE
-2026-06-22,EVEA,FALSE
-2026-06-22,Thatcher,FALSE
-2026-06-22,Naples,FALSE
-2026-06-22,Tukwila,FALSE
-2026-06-22,EANY,TRUE
-2026-06-22,McConnelsville,TRUE
-2026-06-22,Mishawaka - OLD,FALSE
-2026-06-22,Houston,TRUE
-2026-06-22,Eyes on Amboy,TRUE
-2026-06-22,Wesley Chapel,TRUE
-2026-06-22,Trillium Eye Care,FALSE
-2026-06-22,Portland,TRUE
-2026-06-22,Kingsport,FALSE
-2026-06-22,CoMO,TRUE
-2026-06-22,Eldon,TRUE
-2026-06-22,San Antonio- 410 & Evers,TRUE
-2026-06-22,Greene County Eye Care,TRUE
-2026-06-22,Commerce,FALSE
-2026-06-22,Harrah,FALSE
-2026-06-22,Helena,FALSE
-2026-06-22,Anderson,FALSE
-2026-06-22,Greenville,FALSE
-2026-06-22,Avon,FALSE
-2026-06-22,Kalamazoo,TRUE
-2026-06-22,Concord,FALSE
-2026-06-22,Los Angeles,TRUE
-2026-06-22,Milford,FALSE
-2026-06-22,Whitmore Lake,TRUE
-2026-06-22,Luminary,TRUE
-2026-06-22,Spring Green,TRUE
-2026-06-22,"Meridian, Idaho",FALSE
-2026-06-22,San Antonio,TRUE
-2026-06-22,Fountain Hill,FALSE
-2026-06-22,Cedarburg,FALSE
-2026-06-22,Mount Laurel,FALSE
-2026-06-22,Galesburg,TRUE
-2026-06-22,Richmond,TRUE
-2026-06-22,Paul,TRUE
-2026-06-22,Alpha,TRUE
-2026-06-22,Bigfork,FALSE
-2026-06-22,Annandale_Archive,FALSE
-2026-06-22,Sutton,FALSE
-2026-06-22,Thibodaux,FALSE
-2026-06-22,Brewster,TRUE
-2026-06-22,Katy,TRUE
-2026-06-22,Chapin,TRUE
-2026-06-22,LGA,TRUE
-2026-06-22,Coppell,FALSE
-2026-06-22,Willard,TRUE
-2026-06-22,Eyes on Grand,TRUE
-2026-06-22,Geneva,FALSE
-2026-06-22,Seton,FALSE
-2026-06-22,Slidell,FALSE
-2026-06-22,Cicero,FALSE
-2026-06-22,McKinney,TRUE
-2026-06-22,Glen Ellyn,TRUE
-2026-06-22,Granby,FALSE
-2026-06-22,Lorton,FALSE
-2026-06-22,Princeton,FALSE
-2026-06-22,Scott City,TRUE
-2026-06-22,Winfield,FALSE
-2026-06-22,LEROY,FALSE
-2026-06-22,Alma,FALSE
-2026-06-22,Central,TRUE
-2026-06-22,Canton Mart,TRUE
-2026-06-22,Hutchinson,FALSE
-2026-06-22,Mascoutah,TRUE
-2026-06-22,Sault Ste. Marie,TRUE
-2026-06-22,Neenah,FALSE
-2026-06-22,Bandera,TRUE
-2026-06-22,Springfield,TRUE
-2026-06-22,Taylor Eye Care,TRUE
-2026-06-22,Raleigh,TRUE
-2026-06-22,Morrisville,TRUE
-2026-06-22,Colorado Springs,TRUE
-2026-06-22,Collegedale,TRUE
-2026-06-22,Santa Rosa Beach,FALSE
-2026-06-22,Chattanooga,TRUE
-2026-06-22,Gee Eye Care (Texas),FALSE
-2026-06-22,Morehead City,TRUE
-2026-06-22,Maryland Heights,TRUE
-2026-06-22,Oxford,TRUE
-2026-06-22,Wooster,TRUE
-2026-06-22,Orrville,TRUE
-2026-06-22,Paola,FALSE
-2026-06-22,Rev-20DecPA,FALSE
-2026-06-22,REV-TECHBUN,FALSE
-2026-06-22,Primary,TRUE
-2026-06-22,City Eye Brockton,FALSE
-2026-06-22,City Eye MIDDLETOWN,FALSE
-2026-06-22,City Eye Vernon,FALSE
-2026-06-22,City Eye Bellingham,FALSE
-2026-06-22,Elizabethton,FALSE
-2026-06-22,Platte City,TRUE
-2026-06-22,Salem,TRUE
-2026-06-22,Allen,FALSE
-2026-06-22,Wabash,TRUE
-2026-06-22,Peru,TRUE
-2026-06-22,Huntington,TRUE
-2026-06-22,Oneonta,TRUE
-2026-06-22,LaFerla Family Eyecare,TRUE
-2026-06-22,Westside Office,TRUE
-2026-06-22,Eastside Office,FALSE
-2026-06-22,Denison - New,TRUE
-2026-06-22,West Shore Eye Care,TRUE
-2026-06-22,New Albany,FALSE
-2026-06-22,Ashland,TRUE
-2026-06-22,Glen Allen,TRUE
-2026-06-22,rev-test-1,FALSE
-2026-06-22,LV 9565 S,FALSE
-2026-06-22,LV 11400 S,FALSE
-2026-06-22,Apharetta,FALSE
-2026-06-22,Savannah,FALSE
-2026-06-22,New Smyrna Beach,FALSE
+date,location,location_id,organization_name,organization_id,completed
+2026-06-22,London,86ee84d5-c55b-48c3-867a-a005afad7f99,20/20 Eyecare of London,de86e32b-a159-4a3f-8985-d79381928158,TRUE
+2026-06-22,Jacksonville,4ccf055a-12b8-4caa-9f6a-a6b88d6fa260,5 Points Eye Associates,1d0f01e2-1aab-4eec-958f-8637b5d14437,TRUE
+2026-06-22,Canandaigua,91a5d523-f9a0-496d-92b6-a21a77193399,Aberle Eye Care,48876aa6-26ec-488e-be74-590df227195e,FALSE
+2026-06-22,Bossier City,529b17e0-d64d-46aa-a9c3-be0eb11ed8d5,Adams EyeCare,03e88e9b-cb99-4c61-bd14-15194d58cec0,FALSE
+2026-06-22,San Antonio,0d7b1282-c365-4733-8ad8-957c9a74feab,Advanced Eye Care,739ffb0f-936e-40d8-ae44-42526e65e723,TRUE
+2026-06-22,Bedford,ea2798b5-9236-4768-bb87-c8488631cca6,Atchison Eyecare,313dbffb-9ff9-4256-b80e-73fef7f764a7,TRUE
+2026-06-22,Barrios Vision,9980bf29-ef5a-47b5-8edf-e9e2a2ecd5f3,Barrios Vision,e006c1e8-8d9d-4c15-9334-eda9a440309f,FALSE
+2026-06-22,Franklin,665737ef-7574-4d8d-b460-40fd6e356400,Berry Farms EyeCare,dfbcd351-0d33-4a10-ae4a-339fc219226f,FALSE
+2026-06-22,Burkburnett,a4a03073-540a-4819-8e67-9ec7d9cd6c8e,Boomtown Vision,8b8fc044-299c-49b9-8dff-266e316db8f8,FALSE
+2026-06-22,San Antonio,57a0c004-2a03-427c-ae85-e8eab0f2faf7,Diana Gonzalez OD & Associates Pa,f046c948-5eb2-49a4-aec9-e974a5d1f29c,FALSE
+2026-06-22,Jefferson City,021ce2f3-ee47-4f09-86e3-350fc9bcd0dd,Drs. Morrill and Diamond,593a44db-43b1-48e0-b275-8b00a26363f1,TRUE
+2026-06-22,Denham Springs,c353867c-86ca-4151-85af-bbe76a9bd1cf,Eagle Eye Care,e68a3391-ce14-47c7-8503-47493366a69c,TRUE
+2026-06-22,EVEA,c2a8880a-0c56-45aa-8b36-e1efd9b1b715,Eastern Virginia Eye Associates,64aaa4af-7d26-4306-a77f-bb2dab4dc651,FALSE
+2026-06-22,Thatcher,ed91dda6-6212-4ed1-8df0-5e244b0ad0a5,Elite Eyecare Center,5d29e93e-faa2-4502-b987-671da90a626b,FALSE
+2026-06-22,Naples,1dfdfc4d-0725-43a1-a0b2-828559307c74,Everglades Eye Care,9ac7b280-c19a-4efe-9d2e-1b1167ce79f4,FALSE
+2026-06-22,Tukwila,6756b8bc-40af-4b99-a04a-c4569db5d523,Eye 5 Optical,993f530e-99c9-4257-a339-f79f7bd7798b,FALSE
+2026-06-22,EANY,b884b1a2-7c33-4d04-aac1-851f5445c817,Eye Associates of New York,ad2b4b7c-c6e8-4334-ad72-3e25717b094c,TRUE
+2026-06-22,McConnelsville,e945e841-8a21-48ac-981e-373e5159193a,"Eye Care Associates McConnelsville, LLC",20d33677-14d6-4566-8659-5c7741f3618e,TRUE
+2026-06-22,Mishawaka - OLD,e357074a-4f00-40c0-b782-856a1908344d,Eye Site Optical,693883ef-3406-4c3a-b007-99648da2eebc,FALSE
+2026-06-22,Houston,60759455-72e6-482c-9574-04bae1285880,Eye Society Houston,59933494-7011-4d37-aa5f-6254fa039834,TRUE
+2026-06-22,Eyes on Amboy,22659773-f7a6-470e-b6ba-fd68c8b9e0d0,"Eyes on Amboy, Amboy Road, Staten Island, NY, USA",48e76c98-8e81-4dff-849a-3173a9965c86,TRUE
+2026-06-22,Wesley Chapel,0adb20ea-2878-4e8a-bc61-dafb455e124f,Eyes on Wesley Chapel,54716f9f-a0fc-4a58-a4c3-85e09ad58089,TRUE
+2026-06-22,Trillium Eye Care,a9411c8d-8c3b-4d13-9d20-e3949d6fd323,Eyes on Wesley Chapel,54716f9f-a0fc-4a58-a4c3-85e09ad58089,FALSE
+2026-06-22,Portland,9c1cb87a-6b83-4cbd-9c01-96425130e43f,"Eyes on You, PC",a984f2c1-0b39-4bdd-9876-9224a51fa244,TRUE
+2026-06-22,Kingsport,9bdec1ef-3b00-48ee-a9f4-3d6b703250aa,Family Eye Care and Pediatric Vision Center PLLC,3ec958d1-5bea-4f25-8a69-9004facd6101,FALSE
+2026-06-22,CoMO,33c4e6a8-0e74-4959-ac5c-9bad38f73aad,Family Focus Eyecare,d0fa30d1-36b2-4e75-b21c-b4f527a6cd9f,TRUE
+2026-06-22,Eldon,b4ab2711-6fe4-4c36-877d-e93b6b5875d9,Family Focus Eyecare,d0fa30d1-36b2-4e75-b21c-b4f527a6cd9f,TRUE
+2026-06-22,San Antonio- 410 & Evers,65412523-56e6-4666-bdd6-5164eb188cd6,Focus Forward Eyecare,08321669-66ae-4770-bd4c-f81ec4a801df,TRUE
+2026-06-22,Greene County Eye Care,1432afac-5c04-4eca-879d-35f24f3cd8b7,Greene County Eye Care,82fc20ef-c430-494a-aefd-db5b9582967f,TRUE
+2026-06-22,Commerce,8a9b7edf-cc6f-4020-9afe-1888be98d0c5,Haden Eye Center,42edaaf5-a20e-458d-9e51-3521c5e2c08c,FALSE
+2026-06-22,Harrah,6a9c4172-fbd3-417b-8967-c0f0be820fae,Harrah Eye Clinic,132cad7f-807d-4f5f-95ed-17ffb36d47a5,FALSE
+2026-06-22,Helena,e0b672d3-5d32-454a-a56b-fe3774326615,Helena Vision Care,46d61cfe-1539-4bce-b348-e1425359b074,FALSE
+2026-06-22,Anderson,333a3e70-bb2a-4579-82be-82722f005be9,Hopkins Eye Center PA,5207c806-ac08-4f82-9c1c-94b0ff774de9,FALSE
+2026-06-22,Greenville,9651d1c4-2799-451b-937b-4b88573db518,Hopkins Eye Center PA,5207c806-ac08-4f82-9c1c-94b0ff774de9,FALSE
+2026-06-22,Avon,a375f679-cc02-4b57-8c24-9b11d752535d,"Illuminate Eye Care, LLC",5700f518-bf47-4ab0-baf4-cb0e0a78f69f,FALSE
+2026-06-22,Kalamazoo,079c32aa-e473-4bdb-9da4-9360a4dea801,Innovative Eye Care,6851e4d4-666c-413f-95f1-8ef42de2f45c,TRUE
+2026-06-22,Concord,4e5b0608-f9ac-4c06-8ad6-fef39f026d7c,Invision Family Eyecare,2f003d89-ace0-442c-b1db-5b514bdf0f12,FALSE
+2026-06-22,Los Angeles,d9cf1e2c-c19b-40e2-8a07-19f93c9de2c1,L. A. Vision Optometry,94548683-ca1d-4363-8f37-0b87879a2e6f,TRUE
+2026-06-22,Milford,c6247f2f-2001-400a-8efa-feedbf85c8bd,Lighthouse Vision,c2fed173-4a9e-4182-ae88-bce77a90083d,FALSE
+2026-06-22,Whitmore Lake,3e82c0d3-f04d-4e1c-8b2a-af8148118627,Livingston EyeCare,de84c18d-e0e4-4d86-91bc-295e632a4ac5,TRUE
+2026-06-22,Luminary,7128ed8c-84c1-4e52-b54c-2bae14c2a942,Luminary Eye Care,87d11bc8-f2a4-433f-949f-a9910d77c088,TRUE
+2026-06-22,Spring Green,57699591-adad-484f-8cbc-fef3e672d8e1,Spring Green Vision Center,d0571ed7-10dc-49e3-8560-4ff7dfe419d5,TRUE
+2026-06-22,"Meridian, Idaho",a66639d2-e06a-4736-a1aa-f580a751ead4,Meridian Family Eyecare,d97b056e-a7cd-4fec-9524-fc8dee17da21,FALSE
+2026-06-22,San Antonio,0bbfb58a-88b1-4f5b-8198-f7f13a8b36de,Mi Vision Eye Care,86eb7098-a7fa-4620-a0d2-89c3009657ad,FALSE
+2026-06-22,Fountain Hill,49df7086-243a-44ca-85b3-e280c797fb65,My Vision,ec7f0e07-213a-4eda-a1a7-87439ac300a7,FALSE
+2026-06-22,Cedarburg,556180be-d99c-4b90-b1bf-296cc2b67697,North shore Eye Health and wellness,eeb25bbd-0ea2-4a3f-be1f-6cff3aea02c4,FALSE
+2026-06-22,Mount Laurel,051b22e0-dd61-4463-9994-463cb97229bf,Optique Boutique,957014ad-5a44-40c7-892a-165947179127,FALSE
+2026-06-22,Galesburg,9b9f18ba-d62f-4830-84c8-bebf02f18615,Precision Family Eyecare,b4c3eb06-7766-46d6-9710-011ba1ef1571,TRUE
+2026-06-22,Richmond,220b8a23-ee90-4e06-9d40-7027996f6918,Richmond Family Eye Care,6581e3b3-895e-46c7-ab9d-dab0330a4f23,TRUE
+2026-06-22,Paul,d0338ed7-3acd-417a-9ed7-326ea5ee934f,Riverbend Eye Care,0bc846a1-2810-4923-a9e5-48ae6a5d200c,TRUE
+2026-06-22,Alpha,2f919c8e-aeda-4172-934c-b7223a2eece6,Rosato Family Eyecare,21733b22-1a26-48c2-bf37-b5740c2f0e5d,TRUE
+2026-06-22,Bigfork,1e38bcd3-0bfe-40c4-9088-db740e925546,Shining Mountains Eye Care,b3efda98-9640-4ba4-9734-d941286224f8,FALSE
+2026-06-22,Annandale_Archive,100a4132-f875-4dca-91f7-4d4b98f4b0ec,Iris Eyecare,a837f4f4-d023-403c-9d0b-dd46af2c67a8,FALSE
+2026-06-22,Sutton,de7933a0-e3be-4ad7-861e-f522cff3092d,Sutton Vision Center,2677aef3-4fb2-47f4-9bfd-93a545f47e14,FALSE
+2026-06-22,Thibodaux,ea3171fc-065f-417e-9f43-2c1915e2c3a9,Thibodaux Vision Center,25eb24cf-567e-4a87-94c2-877b5652c830,FALSE
+2026-06-22,Brewster,d24f253a-d036-4997-b755-a810e3693de7,Valley Vision,88fbf9cc-6efc-4596-b399-86c8748e5a02,TRUE
+2026-06-22,Katy,a12235fb-1db3-4982-bcae-a891ea4223ae,Vision Republic,9885dda2-95f1-4bf9-aa91-07b556ef4e6b,TRUE
+2026-06-22,Chapin,023274af-a021-400e-bbb2-4f6c4a6b5295,Vital Eyes,64025196-8e89-4e80-863a-216a49bf2372,FALSE
+2026-06-22,LGA,503adff8-ef0b-438e-9387-b314783f3b50,West Village Eyecare Associates,70d93ce7-c3bd-438b-b2be-d41f986d2513,TRUE
+2026-06-22,Coppell,709a68ba-9a64-4367-b24a-995fdb6f94e2,Wilken Family Eye Care,d74dcca3-7c4d-4dc7-b4c5-a562edce27bf,FALSE
+2026-06-22,Willard,b14520fa-745d-411f-9abe-e27e0e520ad6,Willard Eye Care,3e559d4f-1995-4530-8724-1ee1968596c5,TRUE
+2026-06-22,Eyes on Grand,1bdc1fa8-47da-4587-89b0-12eef6439ad3,Eyes on Grand,e01434dd-b7e7-4007-8a0f-567f2026f934,TRUE
+2026-06-22,Geneva,45182e30-0d82-41b5-9df6-8387d8c2c839,Sight to See Eyecare & Eyewear,6ad16009-933e-4b2d-ab2d-9743e58d87f0,FALSE
+2026-06-22,Seton,0270b3b2-e73c-48f4-bb66-2e139086e850,Revolution Live,d7a90726-8c9d-4120-a880-32b0d84801eb,FALSE
+2026-06-22,Slidell,23ad5e48-9bdd-4623-b6d5-55d8b34ddd3a,Birmingham Optical,6e2d4dfe-2911-4129-a406-d59da7441691,FALSE
+2026-06-22,Cicero,822734ef-0dfa-4ec1-a0df-f2fc93d9d1c8,Cicero Family Eye Care,01d82024-6dde-4a49-9534-f6882247fa4a,FALSE
+2026-06-22,McKinney,24788a93-be0d-4aeb-84ce-7b71130db0e9,Family First Eye Care,1d14d3d7-d2c4-426f-86a2-90459d37172d,TRUE
+2026-06-22,Glen Ellyn,f196755a-ad15-4204-822e-c8731caabaae,Glen Ellyn Vision Center,91357471-51aa-415f-9f31-b737926668e4,TRUE
+2026-06-22,Granby,3ad13f05-68a8-45a2-b16d-643c9775f7f1,Granby Family Eye Care LLC,05346fb3-a0df-4474-b1d0-7689e339b641,FALSE
+2026-06-22,Lorton,1f90ca96-df6b-4023-b61b-6e6d2989724c,Clearfinity Eyecare PLLC,d02b023d-66eb-4c29-bee5-369d808876cf,FALSE
+2026-06-22,Princeton,d7a240e1-4f3a-442b-a3b2-443efacd955b,Eye Care Associates of Princeton,6fb63991-2035-414f-bec1-0395398dc466,FALSE
+2026-06-22,Scott City,b1de3953-163b-4a2c-b796-5f7dec990f23,Scott City Eye Center,df519cf9-0f6e-4048-9d9a-a660a70b75bb,TRUE
+2026-06-22,Winfield,7aff03cd-6a49-4bba-bcb5-9d1f5d7ca8bc,Central DuPage Vision Center,92ae7f0d-48f1-4c5f-a53b-06a62067922c,FALSE
+2026-06-22,LEROY,32f49453-1884-4878-b352-da7021c83f1c,Place Eye Care,fce6ccd7-36e9-4d0e-bd58-e17d7cfe5a53,FALSE
+2026-06-22,Alma,8e68a949-6c9c-47aa-8247-0ef8c1149706,Family Vision Care,9a09553e-8632-4af2-bcc7-0f73df8e4af5,FALSE
+2026-06-22,Central,81c596c5-d405-4b05-91a0-b516c4a0be00,Odoms Eye Care Canton Mart,5d7074c8-8dfa-4ef3-8ca7-169fd296fe71,TRUE
+2026-06-22,Canton Mart,20e4b916-7caa-4721-8107-516a6ea65a24,Odoms Eye Care Canton Mart,5d7074c8-8dfa-4ef3-8ca7-169fd296fe71,TRUE
+2026-06-22,Hutchinson,00f49c7c-86af-46b9-9299-6f43790f73a5,"Visionaries Eyecare, Dr. Steve Miller, Optometrist",f84c0250-4935-4fc2-9f87-ae17766a01a8,FALSE
+2026-06-22,Mascoutah,4adc0b23-79a8-46cf-8dd8-f023dd6e5e88,Mascoutah Eye Care,9629f11d-0204-4678-942d-e4ea3fb87ffe,TRUE
+2026-06-22,Sault Ste. Marie,0fafa648-cf75-4b0e-bbf9-0b1b32cf1c45,Sault Vision Clinic P.C.,48a2661b-695b-4b7f-92dd-1d0be889b2e0,TRUE
+2026-06-22,Neenah,61288acb-1245-486a-bdd8-d873ca26b4fc,Romenesko Family Eyecare,b325082b-5bfc-4c75-aaa2-b1b997373e0d,FALSE
+2026-06-22,Bandera,30ec6d28-1bfb-41f4-8550-b5c4eed4cc69,Bandera Eye Care,e3f2b55b-eb65-4484-a321-3ad60c2253f4,TRUE
+2026-06-22,Springfield,c7a3e480-074a-4416-8035-de107d16fc8f,LOW VISION SPECIALISTS,32887464-a8c4-4d9e-8150-e7dcfd9dfb07,TRUE
+2026-06-22,Taylor Eye Care,b5abba40-71c2-4fab-99fe-9623878eec92,Taylor Eye Care,aaa50fa8-fcae-4681-a699-26e697d02834,TRUE
+2026-06-22,Raleigh,3743f49f-8ead-4289-9a89-0d4a940e01dc,TrueVision Eye Care,d0228615-41fc-45a4-8f95-fa73784d9af5,TRUE
+2026-06-22,Morrisville,6461717f-d67e-4835-a451-e3bc991f6da2,TrueVision Eye Care,d0228615-41fc-45a4-8f95-fa73784d9af5,TRUE
+2026-06-22,Colorado Springs,bb5ef89d-2d9b-438c-ba7a-60719b267be5,Powers Eye Center,58743e61-3ea7-4063-8374-2046b1e7bc15,TRUE
+2026-06-22,Collegedale,7334ea92-2ad1-44ff-97ba-bd231f98c75f,Spalding Eye Care,23545e3f-f280-4986-96aa-6319c6b0cb90,TRUE
+2026-06-22,Santa Rosa Beach,b26b5d8b-1f36-41ac-ba11-8df24831db6d,Optikk 30A,31b2076a-82b6-45a5-a936-f50367a4760a,FALSE
+2026-06-22,Chattanooga,dfdb486c-477b-46cc-b088-d1e150288a00,Sight Eyecare,554a39a5-eb60-4f61-830d-8ca1f5739b51,TRUE
+2026-06-22,Gee Eye Care (Texas),9be10c0c-b34d-43e7-a3b4-18b242ced767,Gee Eye Care,ee3e9b38-5bdc-4bce-854e-ae14c382c3a1,FALSE
+2026-06-22,Morehead City,b8b53426-8919-417a-979d-60fb78423b3d,Carteret Vision Center,4f709636-23ac-45b6-a0dd-8e8ef7689b71,TRUE
+2026-06-22,Maryland Heights,47f075bc-ac40-40fc-8870-499b1567aff2,Family Eye Care of Maryland Heights,1018dc94-6b3b-404d-b5a3-43971667defa,TRUE
+2026-06-22,Oxford,28553be5-f880-455c-9d84-0a4a7305fca3,Oxford University Eyecare PLLC,15857f65-d0a2-4825-a874-56543a8a0967,TRUE
+2026-06-22,Wooster,411e3696-044f-4c57-91fb-462ae7a66d6a,Pycraft Family Eye Care,1bdeb35e-e0fd-4bca-9273-bf2415ad0ab1,TRUE
+2026-06-22,Orrville,3c5ba4b7-ee81-40cb-9065-16862fb6e700,Pycraft Family Eye Care,1bdeb35e-e0fd-4bca-9273-bf2415ad0ab1,TRUE
+2026-06-22,Paola,938cebf8-739c-4dbb-9eb2-7fcde43494de,Eyecare Professionals of Paola,1794f8a5-24fd-4cc2-8ceb-32b4f984cfe0,FALSE
+2026-06-22,Rev-20DecPA,ee18db6f-8508-481a-99bb-2d40bf496ab9,Opto-REV,f106c7a8-5d1e-429b-9bb4-266745fae8dc,FALSE
+2026-06-22,REV-TECHBUN,6268b5a1-ffe7-44d9-9a82-89728b9b0881,Opto-REV,f106c7a8-5d1e-429b-9bb4-266745fae8dc,FALSE
+2026-06-22,Primary,27e24c1b-6502-4931-a9ab-19c76957310a,Revolution Live,d7a90726-8c9d-4120-a880-32b0d84801eb,TRUE
+2026-06-22,City Eye Brockton,f9bae132-31b2-4587-a18b-43fd9f33a76f,City Eye,90064983-bad5-4269-8f3b-c31090008fae,FALSE
+2026-06-22,City Eye MIDDLETOWN,dbc98402-646c-4c6c-873c-c35c1228a1f6,City Eye,90064983-bad5-4269-8f3b-c31090008fae,FALSE
+2026-06-22,City Eye Vernon,547fa594-5468-4fbf-a3d6-128ab5440ba4,City Eye,90064983-bad5-4269-8f3b-c31090008fae,FALSE
+2026-06-22,City Eye Bellingham,5ec72ef1-3d9b-4ff5-9a1d-27397e9af24d,City Eye,90064983-bad5-4269-8f3b-c31090008fae,FALSE
+2026-06-22,Elizabethton,7795d3d1-9412-44e7-9067-53883feb4c11,"Dr. Tammy Holsclaw-Jones, OD PLLC",fa23e3e0-be5e-43c6-afb2-daaee09dac02,FALSE
+2026-06-22,Platte City,9abe497c-2414-478f-81c7-42e86c8d5fec,Outreach Vision,5af8ad1b-8fb6-42de-993f-5d71b5bb3730,TRUE
+2026-06-22,Salem,83398efb-8b0e-4d8f-af6e-3bb6ee9b3f7b,Salem Hills Family Eye Care,f859fa4e-ee8f-46f7-a40c-1b907e0671c7,TRUE
+2026-06-22,Allen,de561605-604f-47bb-9e03-0be5f9b0b224,Allen Eyecare Center,81d663d1-65ed-41d0-a080-d779578fba3d,FALSE
+2026-06-22,Wabash,91105957-7f5a-47eb-a36e-f90efbcea2a6,Family Optometry,e56b412d-66ba-42ca-8d8f-3c47310d1565,TRUE
+2026-06-22,Peru,ccf0c7b2-6dce-450a-98d3-d610d88adbad,Family Optometry,e56b412d-66ba-42ca-8d8f-3c47310d1565,TRUE
+2026-06-22,Huntington,8e15dcc9-3cc7-434c-a430-e738d2fbd3fe,Family Optometry,e56b412d-66ba-42ca-8d8f-3c47310d1565,TRUE
+2026-06-22,Oneonta,d1a691f3-a4d1-4c83-a48a-2529e1e70005,Oneonta Optical,3def7b2f-7b6a-48c6-a20a-67a6321bef3d,TRUE
+2026-06-22,LaFerla Family Eyecare,ee817a6e-5890-4abe-a1c0-b09cf9c17548,LaFerla Family Eyecare,66141ecc-1686-472b-a8a3-542644589d28,TRUE
+2026-06-22,Westside Office,d964809b-5dcc-4ca3-8f09-2fbbb48c1152,University Vision Centre,37ea9881-e431-4861-9e93-85f58405a772,TRUE
+2026-06-22,Eastside Office,07964d2e-dff4-4946-9ba2-69bee931c620,University Vision Centre,37ea9881-e431-4861-9e93-85f58405a772,FALSE
+2026-06-22,Denison - New,dee3d6d6-7fec-4667-ade6-9fff91872ae9,Denison Optical,8a9ca9fd-c3a2-4402-b9e2-ac985d7e6a46,TRUE
+2026-06-22,West Shore Eye Care,7781eebe-b102-4f43-8785-760974a418a4,West Shore Eye Care,b1b22351-a1a2-4053-97b9-6cab06213e65,TRUE
+2026-06-22,New Albany,57b0b530-9eeb-431e-b3c8-6c351a45f678,Vision Professionals - New Albany,7c2f5dc4-91f5-4f2e-80df-5bdb6cc95e87,FALSE
+2026-06-22,Ashland,12f4e5c6-b893-432f-a7e8-548f55b83379,Family Vision Care of Richmond,aa2f3c40-a4ee-4123-adb4-d5da3fb4f1b7,TRUE
+2026-06-22,Glen Allen,555fac62-12f4-4286-9686-b7adfa7b1fd7,Family Vision Care of Richmond,aa2f3c40-a4ee-4123-adb4-d5da3fb4f1b7,TRUE
+2026-06-22,rev-test-1,2fcdc2ba-650b-44be-9d91-9fc0bae5f3be,RevBetaSettings,fbd8dc2b-995b-43c7-9c39-0052f14b0f68,FALSE
+2026-06-22,LV 9565 S,07c77f5d-4ea7-4f9e-824c-5de39f683959,Lumina Vision,d6f58911-74cc-4619-9b9f-1738320bfea8,FALSE
+2026-06-22,LV 11400 S,dc461188-b52b-48fd-94d9-79e2276c66f6,Lumina Vision,d6f58911-74cc-4619-9b9f-1738320bfea8,FALSE
+2026-06-22,Apharetta,e874a5ca-4ea8-4b6f-bf5b-316b5ebe8813,Eminence Family Eye Care,1f00888d-f89e-4cd4-88be-06bd22da21bb,FALSE
+2026-06-22,Savannah,96565b4c-ce20-447d-b910-a093ff4955e8,ForSight Unique Eye Care & Eye Wear,6dab2ef7-97a5-49c0-9826-d6de2c9aee5d,FALSE
+2026-06-22,New Smyrna Beach,accaf472-9648-41ed-a25e-aef9b1411eb7,Beach Vision & Dry Eye Center,f93380b3-9e3f-4a42-bca5-e7fee067361b,FALSE
