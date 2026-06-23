@@ -8,41 +8,25 @@ date,location,completed
 2026-06-22,Barrios Vision,FALSE
 2026-06-22,Franklin,FALSE
 2026-06-22,Burkburnett,FALSE
-2026-06-22,Boynton Beach,FALSE
 2026-06-22,San Antonio,TRUE
-2026-06-22,Irving,FALSE
 2026-06-22,Jefferson City,TRUE
 2026-06-22,Denham Springs,TRUE
 2026-06-22,EVEA,FALSE
 2026-06-22,Thatcher,FALSE
-2026-06-22,Mitchell,FALSE
 2026-06-22,Naples,FALSE
 2026-06-22,Tukwila,FALSE
 2026-06-22,EANY,TRUE
-2026-06-22,Eye Care Associates - Stuart,FALSE
-2026-06-22,Eye Care Associates - Panora,FALSE
-2026-06-22,Eye Care Associates - Perry,FALSE
-2026-06-22,Eye Care Associates - Jefferson,FALSE
 2026-06-22,McConnelsville,TRUE
-2026-06-22,New Holstein Family Eye Care,FALSE
-2026-06-22,Grafton Family Eye Care,FALSE
-2026-06-22,Sheboygan Family Eye Care,FALSE
-2026-06-22,Chilton Family Eye Care,FALSE
-2026-06-22,Orange City,TRUE
 2026-06-22,Mishawaka - OLD,FALSE
 2026-06-22,Houston,TRUE
 2026-06-22,Eyes on Amboy,TRUE
-2026-06-22,Eyes on Eastern,FALSE
 2026-06-22,Wesley Chapel,TRUE
 2026-06-22,Trillium Eye Care,FALSE
 2026-06-22,Portland,TRUE
-2026-06-22,Prosper,FALSE
 2026-06-22,Kingsport,FALSE
 2026-06-22,CoMO,TRUE
 2026-06-22,Eldon,TRUE
 2026-06-22,San Antonio- 410 & Evers,TRUE
-2026-06-22,Boston,FALSE
-2026-06-22,Fort Collins,FALSE
 2026-06-22,Greene County Eye Care,TRUE
 2026-06-22,Commerce,FALSE
 2026-06-22,Harrah,FALSE
@@ -52,28 +36,13 @@ date,location,completed
 2026-06-22,Avon,FALSE
 2026-06-22,Kalamazoo,TRUE
 2026-06-22,Concord,FALSE
-2026-06-22,Vision Source Wamego,FALSE
-2026-06-22,Vision Source Junction City,FALSE
-2026-06-22,Vision Source Manhattan,FALSE
 2026-06-22,Los Angeles,TRUE
 2026-06-22,Milford,FALSE
 2026-06-22,Whitmore Lake,TRUE
 2026-06-22,Luminary,TRUE
-2026-06-22,East Northport,FALSE
-2026-06-22,Maple Grove,FALSE
 2026-06-22,Spring Green,TRUE
 2026-06-22,"Meridian, Idaho",FALSE
-2026-06-22,13th St,FALSE
-2026-06-22,Downtown,FALSE
 2026-06-22,San Antonio,TRUE
-2026-06-22,Vision Source - Goodland,FALSE
-2026-06-22,Vision Source - Colby,FALSE
-2026-06-22,Vision Source - Oakley,FALSE
-2026-06-22,Vision Source - Atwood,FALSE
-2026-06-22,Vision Source - St. Francis,FALSE
-2026-06-22,Vision Source - Wray,FALSE
-2026-06-22,Vision Source - Yuma,FALSE
-2026-06-22,Vision Source - Burlington,TRUE
 2026-06-22,Fountain Hill,FALSE
 2026-06-22,Cedarburg,FALSE
 2026-06-22,Mount Laurel,FALSE
@@ -83,21 +52,12 @@ date,location,completed
 2026-06-22,Alpha,TRUE
 2026-06-22,Bigfork,FALSE
 2026-06-22,Annandale_Archive,FALSE
-2026-06-22,Dallas,FALSE
 2026-06-22,Sutton,FALSE
 2026-06-22,Thibodaux,FALSE
-2026-06-22,Longmont,FALSE
 2026-06-22,Brewster,TRUE
 2026-06-22,Katy,TRUE
-2026-06-22,Vision Source Eye Center of the Triad - Greensboro,FALSE
-2026-06-22,Vision Source Eye Center of the Triad - Oak Ridge,FALSE
-2026-06-22,Asheville,FALSE
 2026-06-22,Chapin,TRUE
-2026-06-22,WVEA,FALSE
 2026-06-22,LGA,TRUE
-2026-06-22,Colchester,FALSE
-2026-06-22,Hebron,FALSE
-2026-06-22,Essex,FALSE
 2026-06-22,Coppell,FALSE
 2026-06-22,Willard,TRUE
 2026-06-22,Eyes on Grand,TRUE
@@ -108,16 +68,11 @@ date,location,completed
 2026-06-22,McKinney,TRUE
 2026-06-22,Glen Ellyn,TRUE
 2026-06-22,Granby,FALSE
-2026-06-22,Lake Mills,FALSE
-2026-06-22,Waupun,TRUE
-2026-06-22,Madison,FALSE
 2026-06-22,Lorton,FALSE
 2026-06-22,Princeton,FALSE
 2026-06-22,Scott City,TRUE
-2026-06-22,Park Hills,FALSE
 2026-06-22,Winfield,FALSE
 2026-06-22,LEROY,FALSE
-2026-06-22,Tooele,FALSE
 2026-06-22,Alma,FALSE
 2026-06-22,Central,TRUE
 2026-06-22,Canton Mart,TRUE
@@ -127,23 +82,15 @@ date,location,completed
 2026-06-22,Neenah,FALSE
 2026-06-22,Bandera,TRUE
 2026-06-22,Springfield,TRUE
-2026-06-22,Citrus Heights,FALSE
 2026-06-22,Taylor Eye Care,TRUE
 2026-06-22,Raleigh,TRUE
 2026-06-22,Morrisville,TRUE
-2026-06-22,Tulsa,FALSE
-2026-06-22,Glen Mills,FALSE
-2026-06-22,Lancaster,FALSE
 2026-06-22,Colorado Springs,TRUE
-2026-06-22,"Toronto, Ontario, Canada",FALSE
 2026-06-22,Collegedale,TRUE
-2026-06-22,Eyecare of Great Bend,TRUE
-2026-06-22,Larned Eye Health,FALSE
 2026-06-22,Santa Rosa Beach,FALSE
 2026-06-22,Chattanooga,TRUE
 2026-06-22,Gee Eye Care (Texas),FALSE
 2026-06-22,Morehead City,TRUE
-2026-06-22,Omaha,FALSE
 2026-06-22,Maryland Heights,TRUE
 2026-06-22,Oxford,TRUE
 2026-06-22,Wooster,TRUE
@@ -175,7 +122,6 @@ date,location,completed
 2026-06-22,rev-test-1,FALSE
 2026-06-22,LV 9565 S,FALSE
 2026-06-22,LV 11400 S,FALSE
-2026-06-22,Irving,FALSE
 2026-06-22,Apharetta,FALSE
 2026-06-22,Savannah,FALSE
 2026-06-22,New Smyrna Beach,FALSE
