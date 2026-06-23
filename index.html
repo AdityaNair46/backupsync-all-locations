@@ -165,10 +165,10 @@ tr.clickable:hover td{background:var(--bg2);}
       <div class="filter-group">
         <label>Quick range</label>
         <select id="quickRange" onchange="applyQuickRange()">
-          <option value="">Custom</option>
+          <option value="" selected>Custom</option>
           <option value="7">Last 7 days</option>
           <option value="14">Last 14 days</option>
-          <option value="30" selected>Last 30 days</option>
+          <option value="30">Last 30 days</option>
           <option value="60">Last 60 days</option>
           <option value="90">Last 90 days</option>
           <option value="all">All time</option>
@@ -189,7 +189,7 @@ tr.clickable:hover td{background:var(--bg2);}
         <div class="inner-filter">
           <select id="locSort" onchange="renderLocations()">
             <option value="rate-asc">Worst first</option>
-            <option value="rate-desc">Best first</option>
+            <option value="rate-desc" selected>Best first</option>
             <option value="alpha">A → Z</option>
           </select>
           <input type="text" id="locSearch" placeholder="Search location…" oninput="renderLocations()" style="width:190px;">
@@ -271,7 +271,11 @@ async function loadData() {
     allDates = [...new Set(allRecords.map(r => r.date))].sort();
 
     // Default to last 30 days
-    applyQuickRange(true);
+    // Start with no date filter — show all data
+    filteredRecords = [...allRecords];
+    renderMetrics();
+    renderLocations();
+    renderFailing();
 
     const last = allDates[allDates.length - 1] || '—';
     document.getElementById('lastUpdated').textContent =
